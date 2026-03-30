@@ -165,6 +165,6 @@ class QuizGame:
                 break
 
 if __name__ == "__main__":
-    game = QuizGame("mission2/state.json")
+    game = QuizGame("state.json")
     game.run()
 # Extra comment
